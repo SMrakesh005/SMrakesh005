@@ -4,7 +4,7 @@
 
 🌱 I have completed my B.Tech in Electronics and Communication Engineering from Haldia Institute of Technology.
 
-👯 I’m looking to collaborate on SDE Projects
+👯 I’m looking to collaborate on Java Projects
 
 💞️ I'm interested in learning new things
 
