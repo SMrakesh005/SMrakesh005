@@ -1,11 +1,16 @@
 ### Hi there 👋
 
-🔭 I’m Rakesh Kumar
+🔭 Name: Rakesh Kumar
 
-🌱 I have completed my B.Tech in Electronics and Communication Engineering from Haldia Institute of Technology.
+📚 Education:
 
-👯 I’m looking to collaborate on Java Projects
+Completed Bachelor of Technology (B.Tech) in Electronics and Communication Engineering from Haldia Institute of Technology.
+🚀 Professional Interest:
 
-💞️ I'm interested in learning new things
+Highly interested in collaborating on Java Projects, leveraging both my educational background and practical experience to contribute effectively to software development initiatives.
+💡 Personal Aspiration:
 
-📫 You can reach me via email-Id rakeshkumarrunipur@gmail.com 😊
+Enthusiastic about continuous learning and self-improvement, always eager to explore new technologies and methodologies to expand my skillset and enhance my contributions to the field of software engineering.
+📧 Contact Information:
+
+Feel free to reach out to me via email at: rakeshkumarrunipur@gmail.com for any collaboration opportunities, queries, or discussions.
